@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-success?style=flat" />
   <img src="https://img.shields.io/badge/Deep%20Learning-critical?style=flat" />
-  <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker" />
 </p>
 
 ---
